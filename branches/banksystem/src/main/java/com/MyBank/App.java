@@ -2,7 +2,7 @@ package main.java.com.MyBank;
 
 /**
  * Hello world!
- 
+ *
  *
  */
 public class App 
